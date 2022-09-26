@@ -1,7 +1,9 @@
 
 
-<h1 align="center">  Workout 10 App</h1>
+<h1 align="center">Workout 10 App with Flutter 3.3.2</h1>
 <h3 align="center">An Timer App with 10 minuts to Workout </h3>
+<h4 align="center">Getx as State management and Get storage as local storage</h4>
+
 
 
 
@@ -15,9 +17,12 @@
 
 - 💬 Ask me about **Dart/Flutter**
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-</p>
+
+<img src="https://i.postimg.cc/C1SKCxwB/Screenshot-1664228101.png" alt="dart" width="400" height="800"/> </a>
+<img src="https://i.postimg.cc/QtmdfZM6/Screenshot-1664228143.png" alt="dart" width="400" height="800"/> </a>
+<img src="https://i.postimg.cc/Bb3wQRcG/Screenshot-1664228744.png" alt="dart" width="400" height="800"/> </a>
+<img src="https://i.postimg.cc/2546BZNN/Screenshot-1664228107.png" alt="dart" width="400" height="800"/> </a>
+<img src="https://i.postimg.cc/Jhw0nQgQ/Screenshot-1664199892.png" alt="dart" width="400" height="800"/> </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  </p>
@@ -29,10 +34,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maurodev16&" alt="maurodev16" /></p>
 
-<img src="https://im.ge/i/1NBc3W" alt="dart" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+
 
